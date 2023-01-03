@@ -32,6 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/jonas/Desktop/Github ekstra/JavaFX 04.10.22",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
@@ -64,8 +65,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664817710253</updated>
+      <workItem from="1672740223762" duration="32000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
